@@ -1,4 +1,5 @@
 <?php
+echo "working";
 class start{
   private $version;
   public function __construct(){
